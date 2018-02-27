@@ -1,0 +1,18 @@
+   1  head -n 28 people
+   2  ls
+   3  grep "CLUE" crimescene
+   4  grep "Annabel" people
+   5  head -n 179 streets/Buckingham_Place | tail -n 1
+   6  cat interviews/interview-699607 
+   7  grep -A 5 "L337" vehicles
+   8  ls
+   9  cd memberships
+   10  ls
+   11  cat AAA Terminal_City_Library Delta_SkyMiles | grep "Jeremy Bowers" | wc -1
+   12  cat AAA Terminal_City_Library Delta_SkyMiles | grep "Jeremy Bowers"
+   13  cat AAA Terminal_City_Library Delta_SkyMiles | grep "Joe Germuska"
+   14  cat AAA Terminal_City_Library Delta_SkyMiles | grep "Jacqui Maher"
+   15  cd ..
+   16  grep "Jacqui Maher" people
+   17  echo "Jeremy Bowers"
+   18  history > mon_historique.log
